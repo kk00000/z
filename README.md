@@ -1,2 +1,2 @@
 # z
-気まぐれ
+print("Heloo world")
